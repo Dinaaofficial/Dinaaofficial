@@ -17,12 +17,12 @@
   </a>
 </p>
 
-- 🔭 I’m currently helping on [Queen Amdi Project](https://github.com/BlackAmda/QueenAmdi)
-- 🌱 I’m currently learning **HTML, Python**
-- 🤖 All of my projects are available at > [My Git](https://github.com/Dinaaofficial/) <
-- 📫 How to reach me > [Whatsapp](https://wa.me/94774976567) <
-- 📜 **I am only a small developer.. 🌆**
-- ✍️  I am learning Programming..
+- 🔭 ι’м ¢υяяєηтℓу нєℓριηg ση [Queen Amdi Project](https://github.com/BlackAmda/QueenAmdi)
+- 🌱 Ӏ’ɱ ƈʋɾɾҽղƭƖყ Ɩҽąɾղíղɠ **HTML, Python**
+- 🤖 ⱭƖƖ օƒ ɱყ ƥɾօᴊҽƈƭʂ ąɾҽ ąⱱąíƖąɓƖҽ ąƭ > [My Git](https://github.com/Dinaaofficial/) <
+- 📫 Ӈօⱳ ƭօ ɾҽąƈɦ ɱҽ > [Whatsapp](https://wa.me/94774976567) <
+- 📜 **I αм oɴly α ѕмαll developer.. 🌆**
+- ✍️  เ ค๓ lєคгภเภɠ թг๏ɠгค๓๓เภɠ..
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
