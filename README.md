@@ -1,6 +1,7 @@
 <h2 align="center">Hello☠️ <br>I'm <br>🕯️⛓️Mr.Dina⚖️</h1>
 
 <h4 align="center">I am a simple developer🕯️..</h3>
+<h4 align="center">🕯️⛓️⚖️ռօ ɦʊʍǟռɨȶʏ ɮɛƈǟʊֆɛ ɨ ǟʍ ɖɛʋɨʟ..ʍʏ ʀʊʟɛֆ,ʍʏ ǟȶȶɨȶʊɛ,ʍʏ ֆȶʏʟɛ.🗡️🧬⚙️ɪ ʜᴀᴠᴇ ᴀ ᴍᴇɴᴛᴀʟ ɪʟʟɴᴇss, sᴏ sᴏᴍᴇᴛɪᴍᴇs ɪᴛ ᴡᴏʀᴋs sᴛᴜᴘɪᴅ, ʙᴇᴄᴀᴜsᴇ ɪ'ᴍ ᴅɪɴᴀ.(🔐ʂıŋƈɛ _2k18)..</h3>
 <h7 align="left">Moreover, I am the <b>helper</b> of the Queen Amdi whatsapp user bot project. <br>Queen Amdi Project 👸</h7>
 
 ##
@@ -18,9 +19,10 @@
 
 - 🔭 I’m currently helping on [Queen Amdi Project](https://github.com/BlackAmda/QueenAmdi)
 - 🌱 I’m currently learning **HTML, Python**
-- 👨‍💻 All of my projects are available at > [My Git](https://github.com/Dinaaofficial/) <
+- 🤖 All of my projects are available at > [My Git](https://github.com/Dinaaofficial/) <
 - 📫 How to reach me > [Whatsapp](https://wa.me/94774976567) <
-- 💫 **I am only a small developer.. 🌆**
+- 📜 **I am only a small developer.. 🌆**
+- ✍️  I am learning Programming..
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
