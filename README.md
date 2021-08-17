@@ -2,7 +2,7 @@
 
 <h4 align="center">I am a simple developer🕯️..</h3>
 <h4 align="center">🕯️⛓️⚖️ռօ ɦʊʍǟռɨȶʏ ɮɛƈǟʊֆɛ ɨ ǟʍ ɖɛʋɨʟ..ʍʏ ʀʊʟɛֆ,ʍʏ ǟȶȶɨȶʊɛ,ʍʏ ֆȶʏʟɛ.🗡️🧬⚙️ɪ ʜᴀᴠᴇ ᴀ ᴍᴇɴᴛᴀʟ ɪʟʟɴᴇss, sᴏ sᴏᴍᴇᴛɪᴍᴇs ɪᴛ ᴡᴏʀᴋs sᴛᴜᴘɪᴅ, ʙᴇᴄᴀᴜsᴇ ɪ'ᴍ ᴅɪɴᴀ.(🔐ʂıŋƈɛ _2k18)..</h3>
-<h7 align="left">Moreover, I am the <b>helper</b> of the Queen Amdi whatsapp user bot project. <br>Queen Amdi Project 👸</h7>
+<h7 align="left"><b>Moreover, I am the <b>helper</b> of the Queen Amdi whatsapp user bot project. <br>Queen Amdi Project 👸</b></h7>
 
 ##
 <p align="center">
