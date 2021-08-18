@@ -1,4 +1,4 @@
-<h2 align="center">Hello☠️ <br>I'm <br>🕯️⛓️ M r . D i n a ⚖️</h1>
+<h2 align="center">Hello ☠️ <br>I'm <br>🕯️⛓️ M r . D i n a ⚖️</h1>
 <img align="center">
 <h4 align="center">......I am a simple developer🕯️......</h3>
 
