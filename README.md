@@ -1,7 +1,6 @@
 <h2 align="center">Hello☠️ <br>I'm <br>🕯️⛓️Mr.Dina⚖️</h1>
 <img align="center">
 <h4 align="center">I am a simple developer🕯️..</h3>
-<img src="https://i.ibb.co/zfjttYr/Whats-App-Image-2021-08-16-at-11-34-48-PM.jpg" alt="Dinaaofficial" class="center">
 
 <h4 align="center">🕯️⛓️⚖️ռօ ɦʊʍǟռɨȶʏ ɮɛƈǟʊֆɛ ɨ ǟʍ ɖɛʋɨʟ..ʍʏ ʀʊʟɛֆ,ʍʏ ǟȶȶɨȶʊɛ,ʍʏ ֆȶʏʟɛ.🗡️🧬⚙️ɪ ʜᴀᴠᴇ ᴀ ᴍᴇɴᴛᴀʟ ɪʟʟɴᴇss, sᴏ sᴏᴍᴇᴛɪᴍᴇs ɪᴛ ᴡᴏʀᴋs sᴛᴜᴘɪᴅ, ʙᴇᴄᴀᴜsᴇ ɪ'ᴍ ᴅɪɴᴀ.(🔐ʂıŋƈɛ _2k18)..</h3>
 <h7 align="left"><b>Moreover, I am the <i><b>helper</b></i> of the Queen Amdi whatsapp user bot project. <br>🕯️Queen Amdi Project👸</b></h7>
