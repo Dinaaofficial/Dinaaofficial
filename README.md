@@ -1,7 +1,7 @@
 <h2 align="center">☠️ Hello ☠️ <br>I'm <br>🕯️⛓️ M r . D i n a ⚖️</h1>
 <img align="center">
 <h4 align="center">......I am a simple developer🕯️......</h3>
-<img align="right" alt="GIF" src="https://www.mboxdrive.com/355855_movie.mp4" width="390"/>
+<img align="right" alt="GIF" src="https://im3.ezgif.com/tmp/ezgif-3-396d017bed63.gif" width="400"/>
 
 <h4 align="center">🕯️⛓️⚖️ռօ ɦʊʍǟռɨȶʏ ɮɛƈǟʊֆɛ ɨ ǟʍ ɖɛʋɨʟ..ʍʏ ʀʊʟɛֆ,ʍʏ ǟȶȶɨȶʊɛ,ʍʏ ֆȶʏʟɛ.🗡️🧬⚙️ɪ ʜᴀᴠᴇ ᴀ ᴍᴇɴᴛᴀʟ ɪʟʟɴᴇss, sᴏ sᴏᴍᴇᴛɪᴍᴇs ɪᴛ ᴡᴏʀᴋs sᴛᴜᴘɪᴅ, ʙᴇᴄᴀᴜsᴇ ɪ'ᴍ ᴅɪɴᴀ.(🔐ʂıŋƈɛ _2k18)..</h3>
 <h7 align="left"><b>Moreover, I am the <i><b>helper</b></i> of the Queen Amdi whatsapp user bot project. <br>🕯️Queen Amdi Project👸</b></h7>
