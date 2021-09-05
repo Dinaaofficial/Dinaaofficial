@@ -27,7 +27,7 @@
 - ✍️  เ ค๓ lєคгภเภɠ թг๏ɠгค๓๓เภɠ..
 
 <h3 align="left">Join My WebSite:</h3>
-<a href="http://tinyurl.com/DinaOfficial" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GNOME_Web_logo--2018.svg/1200px-GNOME_Web_logo--2018.svg.png" alt="Dinaaofficial" height="40" width="40" /></a>
+<a href="https://dinaaofficial.github.io/dina-official/index.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GNOME_Web_logo--2018.svg/1200px-GNOME_Web_logo--2018.svg.png" alt="Dinaaofficial" height="40" width="40" /></a>
 <h3 align="left">Join My Whatsapp Group:</h3>
 <a href="https://chat.whatsapp.com/ChtWfnGexZlJsLOm99toIu" target="blank"><img align="center" src="https://1.bp.blogspot.com/-PM8_Rig8V0M/XxFkv-2f3hI/AAAAAAAACSU/vB1BqbuhFCMyJ8OGCVstFiMLFmavCLqrwCPcBGAYYCw/s1600/whatsapp-logo-1.png" alt="Dinaaofficial" height="40" width="40" /></a>
 <h3 align="left">Contact Me:</h3>
