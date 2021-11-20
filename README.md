@@ -34,9 +34,9 @@
 - ✍️  เ ค๓ lєคгภเภɠ թг๏ɠгค๓๓เภɠ..
 
 <h3 align="left">Join My WebSite:</h3>
-<a href="https://dinaaofficial.github.io/dina-official/index.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GNOME_Web_logo--2018.svg/1200px-GNOME_Web_logo--2018.svg.png" alt="Dinaaofficial" height="40" width="40" /></a>
+<a href="https://dinaaofficial.github.io/dina-official/index.html" target="blank"><img align="center" src="https://i.ibb.co/GVrYg8w/APP-LOGO.png" alt="Dinaaofficial" height="50" width="50" /></a>
 <h3 align="left">Join My Whatsapp Group:</h3>
-<a href="https://chat.whatsapp.com/ChtWfnGexZlJsLOm99toIu" target="blank"><img align="center" src="https://1.bp.blogspot.com/-PM8_Rig8V0M/XxFkv-2f3hI/AAAAAAAACSU/vB1BqbuhFCMyJ8OGCVstFiMLFmavCLqrwCPcBGAYYCw/s1600/whatsapp-logo-1.png" alt="Dinaaofficial" height="40" width="40" /></a>
+<a href="https://chat.whatsapp.com/ChtWfnGexZlJsLOm99toIu" target="blank"><img align="center" src="https://i.ibb.co/KbhqFMS/pngwing-com.png" alt="Dinaaofficial" height="50" width="50" /></a>
 <h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/dinaa__official_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Dinaaofficial" height="30" width="40" /></a>
@@ -65,11 +65,16 @@
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/heroku.png" title="heroku"></code>
 </p>
 
+---
+### 🎧 Spotify Playing
+[![Spotify](https://black-amda.vercel.app/api/spotify)](https://open.spotify.com/user/3hehtkq063k8vnnnaop3xqw7x)
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinaaofficial&show_icons=true&layout=compact&theme=highcontrast" alt="Dinaaofficial" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinaaofficial&show_icons=true&theme=highcontrast" alt="Dinaaofficial" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinaaofficial&theme=highcontrast" alt="Dinaaofficial" /></p>
 </details>
+
 <details>
 <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
