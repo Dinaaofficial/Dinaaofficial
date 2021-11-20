@@ -37,7 +37,7 @@
 - ✍️  เ ค๓ lєคгภเภɠ թг๏ɠгค๓๓เภɠ..
 
 <h3 align="left">Join My WebSite:</h3>
-<a href="https://dinaaofficial.github.io/dina-official/index.html" target="blank"><img align="center" src="https://i.ibb.co/GVrYg8w/APP-LOGO.png" alt="Dinaaofficial" height="50" width="50" /></a>
+<a href="https://dinaaofficial.github.io/dina-official/index.html" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/717/422/png-clipart-globe-world-map-globe-miscellaneous-world-thumbnail.png" alt="Dinaaofficial" height="50" width="50" /></a>
 <h3 align="left">Join My Whatsapp Group:</h3>
 <a href="https://chat.whatsapp.com/ChtWfnGexZlJsLOm99toIu" target="blank"><img align="center" src="https://i.ibb.co/KbhqFMS/pngwing-com.png" alt="Dinaaofficial" height="50" width="50" /></a>
 <h3 align="left">Contact Me:</h3>
