@@ -44,14 +44,27 @@
 <a href="https://wa.me/94774976567" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Dinaaofficial" height="30" width="40" /></a>
 
 </p>
-<h3 align="left">Languages and Tools:</h3>
 
-<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
- <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
+### 💀Languages and Tools 
+<p>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/50/000000/css3.png" title="CSS"></code>
+  <code><img width="40px" src="https://img.icons8.com/fluency/48/000000/node-js.png" title="JS"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/linux--v1.png" title="Linux"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/docker.png" title="docker"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/kali-linux.png" title="Kali Linux"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/blender-3d.png" title="Blender 3D"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Codes"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" title="PS"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png" title="AI"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/git.png" title="Bash"></code>
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/heroku.png" title="heroku"></code>
+</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinaaofficial&show_icons=true&layout=compact&theme=highcontrast" alt="Dinaaofficial" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinaaofficial&show_icons=true&theme=highcontrast" alt="Dinaaofficial" /></p>
