@@ -48,6 +48,12 @@
 
 </p>
 
+### 👻 My Currently working projects
+<p align="left">
+  <a href="https://github.com/BlackAmda/QueenAmdi"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BlackAmda&repo=QueenAmdi&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="QueenAmdi"></a>
+  <a href="https://github.com/Dinaaofficial/Telegram-bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dinaaofficial&repo=Telegram-bot&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Telegram-bot"></a>
+
+
 ---
 ### 💀Languages and Tools 
 <p>
