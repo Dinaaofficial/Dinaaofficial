@@ -1,7 +1,7 @@
 
 <img align="right" alt="GIF" src="https://c.tenor.com/bqblsnQWv6YAAAAC/devils.gif" width="400"/>
 
-<h7 align="left"><b>ᴍᴏʀᴇᴏᴠᴇʀ, ɪ ᴀᴍ ᴛʜᴇ <i><b>ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢɴᴇʀ</b></i> ᴏꜰ ᴛʜᴇ Qᴜᴇᴇɴ ᴀᴍᴅɪ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴘʀᴏᴊᴇᴄᴛ. <br>Qᴜᴇᴇɴ ᴀᴍᴅɪ ᴘʀᴏᴊᴇᴄᴛ❤️💃₂₀₂₀</b></h7>
+<h7 align="left"><b>ᴍᴏʀᴇᴏᴠᴇʀ, ɪ ᴀᴍ ᴛʜᴇ <i><b>ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢɴᴇʀ</b></i> ᴏꜰ ᴛʜᴇ Qᴜᴇᴇɴ ᴀᴍᴅɪ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴘʀᴏᴊᴇᴄᴛ. <br>Qᴜᴇᴇɴ ᴀᴍᴅɪ ᴘʀᴏᴊᴇᴄᴛ❤️💃²⁰²¹</b></h7>
 ##
 <p align="center">
 <a href="https://github.com/Dinaaofficial">
