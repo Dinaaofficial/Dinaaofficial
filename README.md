@@ -1,21 +1,7 @@
 
-<h2 align="center">Hello🧬<br>I'm <br>🇲​​​​​🇷​​​​​.🇩​​​​​🇮​​​​​🇳​​​​​🇦⛓️⚖️</h1>
-
-███╗░░░███╗██████╗░░░░██████╗░██╗███╗░░██╗░█████╗░
-████╗░████║██╔══██╗░░░██╔══██╗██║████╗░██║██╔══██╗
-██╔████╔██║██████╔╝░░░██║░░██║██║██╔██╗██║███████║
-██║╚██╔╝██║██╔══██╗░░░██║░░██║██║██║╚████║██╔══██║
-██║░╚═╝░██║██║░░██║██╗██████╔╝██║██║░╚███║██║░░██║
-╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝
-<h4 align="center">......I am a simple developer🕯️......</h3>
 <img align="right" alt="GIF" src="https://c.tenor.com/bqblsnQWv6YAAAAC/devils.gif" width="400"/>
 
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-</p>
-
-<h4 align="center">🕯️⛓️⚖️ռօ ɦʊʍǟռɨȶʏ ɮɛƈǟʊֆɛ ɨ ǟʍ ɖɛʋɨʟ..ʍʏ ʀʊʟɛֆ,ʍʏ ǟȶȶɨȶʊɛ,ʍʏ ֆȶʏʟɛ.🗡️🧬⚙️ɪ ʜᴀᴠᴇ ᴀ ᴍᴇɴᴛᴀʟ ɪʟʟɴᴇss, sᴏ sᴏᴍᴇᴛɪᴍᴇs ɪᴛ ᴡᴏʀᴋs sᴛᴜᴘɪᴅ, ʙᴇᴄᴀᴜsᴇ ɪ'ᴍ ᴅɪɴᴀ.(🔐ʂıŋƈɛ _2k18)..</h3>
-<h7 align="left"><b>Moreover, I am the <i><b>graphic designer</b></i> of the Queen Amdi whatsapp user bot project. <br>🕯️Queen Amdi Project👸</b></h7>
-
+<h7 align="left"><b>ᴍᴏʀᴇᴏᴠᴇʀ, ɪ ᴀᴍ ᴛʜᴇ <i><b>ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢɴᴇʀ</b></i> ᴏꜰ ᴛʜᴇ Qᴜᴇᴇɴ ᴀᴍᴅɪ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴘʀᴏᴊᴇᴄᴛ. <br>Qᴜᴇᴇɴ ᴀᴍᴅɪ ᴘʀᴏᴊᴇᴄᴛ❤️💃₂₀₂₀</b></h7>
 ##
 <p align="center">
 <a href="https://github.com/Dinaaofficial">
@@ -29,18 +15,14 @@
   </a>
 </p>
 
-- 🔭 ι’м ¢υяяєηтℓу нєℓριηg ση [Queen Amdi Project](https://github.com/BlackAmda/QueenAmdi)
-- 🌱 Ӏ’ɱ ƈʋɾɾҽղƭƖყ Ɩҽąɾղíղɠ **HTML, Python**
-- 🤖 ⱭƖƖ օƒ ɱყ ƥɾօᴊҽƈƭʂ ąɾҽ ąⱱąíƖąɓƖҽ ąƭ > [My Git](https://github.com/Dinaaofficial/) <
-- 📫 Ӈօⱳ ƭօ ɾҽąƈɦ ɱҽ > [Whatsapp](https://wa.me/94774976567) <
-- 📜 **I αм oɴly α ѕмαll developer.. 🌆**
-- ✍️  เ ค๓ lєคгภเภɠ թг๏ɠгค๓๓เภɠ..
+**ᴍʏ ꜱᴋɪʟʟꜱ**
+- 🔭 ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢɴɪɴɢ ᴏɴ [Qᴜᴇᴇɴ ᴀᴍᴅɪ ᴘʀᴏᴊᴇᴄᴛ](https://github.com/BlackAmda/QueenAmdi)
+- 🤖 ᴀʟʟ ᴏꜰ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴀᴛ [ᴍʏ ɢɪᴛ](https://github.com/Dinaaofficial/) 
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ [ᴡʜᴀᴛꜱᴀᴘᴘ](https://wa.me/94774976567) 
+- 📜 ɪ ᴀᴍ **ᴄᴏᴍᴘᴜᴛᴇʀ ʜᴀʀᴅᴡᴀʀᴇ ᴛᴇᴄʜɴɪᴄɪᴀɴ.**
 
-<h3 align="left">Join My WebSite:</h3>
-<a href="http://dinaofficial.tk/" target="blank"><img align="center" src="https://i.ibb.co/B36GPC1/pngegg-4.png" alt="Dinaaofficial" height="50" width="50" /></a>
-<h3 align="left">Join My Whatsapp Group:</h3>
-<a href="https://chat.whatsapp.com/ChtWfnGexZlJsLOm99toIu" target="blank"><img align="center" src="https://i.ibb.co/KbhqFMS/pngwing-com.png" alt="Dinaaofficial" height="50" width="50" /></a>
-<h3 align="left">Contact Me:</h3>
+**ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ :** [ᴅɪɴᴀ ᴏꜰꜰɪᴄɪᴀʟ ᴄʀᴇᴡ](https://github.com/Dinaaofficial/)
+<h3 align="left">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
 <p align="left">
 <a href="https://www.instagram.com/dinaa__official_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Dinaaofficial" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Dinaaofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Dinaaofficial" height="30" width="40" /></a>
@@ -48,14 +30,14 @@
 
 </p>
 
-### 👻 My Currently working projects
+### 👽 ᴍʏ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴘʀᴏᴊᴇᴄᴛꜱ
 <p align="left">
   <a href="https://github.com/BlackAmda/QueenAmdi"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BlackAmda&repo=QueenAmdi&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="QueenAmdi"></a>
   <a href="https://github.com/Dinaaofficial/Telegram-bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dinaaofficial&repo=Telegram-bot&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Telegram-bot"></a>
 
 
----
-### 💀Languages and Tools 
+--
+### 👽 ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 <p>
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"></code>
   <code><img width="40px" src="https://img.icons8.com/color/50/000000/css3.png" title="CSS"></code>
@@ -74,17 +56,14 @@
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/heroku.png" title="heroku"></code>
 </p>
 
----
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-</p>
-
-### 🎧 Spotify Playing
+--
+### 🎧 ꜱᴘᴏᴛɪꜰʏ ᴘʟᴀʏɪɴɢ
 [![Spotify](https://black-amda.vercel.app/api/spotify)](https://open.spotify.com/user/3hehtkq063k8vnnnaop3xqw7x)
 
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 </p>
 
----
+--
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinaaofficial&show_icons=true&layout=compact&theme=highcontrast" alt="Dinaaofficial" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinaaofficial&show_icons=true&theme=highcontrast" alt="Dinaaofficial" /></p>
@@ -92,14 +71,14 @@
 </details>
 
 <details>
-<summary>&#127942 <b>GitHub Awards</b></summary><br/>
+<summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅꜱ</b></ꜱᴜᴍᴍᴀʀʏ><br/>
 
  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Dinaaofficial)
 
 </details>
 
 <details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+    <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</b></summary><br/>
   
 ![Metrics](https://metrics.lecoq.io/Dinaaofficial?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
