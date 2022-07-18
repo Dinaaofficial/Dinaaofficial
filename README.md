@@ -4,16 +4,22 @@
 <h7 align="left"><b>ᴍᴏʀᴇᴏᴠᴇʀ, ɪ ᴀᴍ ᴛʜᴇ <i><b>ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢɴᴇʀ</b></i> ᴏꜰ ᴛʜᴇ Qᴜᴇᴇɴ ᴀᴍᴅɪ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴘʀᴏᴊᴇᴄᴛ. <br>Qᴜᴇᴇɴ ᴀᴍᴅɪ ᴘʀᴏᴊᴇᴄᴛ❤️💃²⁰²¹</b></h7>
 ##
 <p align="center">
-<a href="https://github.com/Dinaaofficial">
-    <img src="https://komarev.com/ghpvc/?username=Dinaaofficial&label=Profile%20views&color=ff0000&label=Profile+Views&style=plastic">
-  </a>
-  <a href="https://github.com/Dinaaofficial?tab=stars">
-    <img src="https://img.shields.io/github/stars/Dinaaofficial?color=00ff00&label=Stars&style=plastic">
-  </a>
-  <a href="https://github.com/Dinaaofficial?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dinaaofficial?color=0000ff&label=Followers&style=plastic">
-  </a>
+  <a href="https://github.com/Dinaaofficial">
+    <img alt="Profile-views" title="Follow me on Github" src="https://komarev.com/ghpvc/?username=Dinaaofficial&label=Profile%20viewscolor=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Profile Views&logoColor=white"/></a>
 </p>
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCFClBsw-htvo1p4BFGCQPGg?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCFClBsw-htvo1p4BFGCQPGg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/DevProTips">
+  <a href="https://www.youtube.com/channel/UCFClBsw-htvo1p4BFGCQPGg">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCFClBsw-htvo1p4BFGCQPGg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/Dinaaofficial?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Dinaaofficial"/></a>
+  <a href="https://github.com/Dinaaofficial?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Dinaaofficial?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
+  </p>
+
 
 **ᴍʏ ꜱᴋɪʟʟꜱ**
 - 🔭 ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢɴɪɴɢ ᴏɴ [Qᴜᴇᴇɴ ᴀᴍᴅɪ ᴘʀᴏᴊᴇᴄᴛ](https://github.com/BlackAmda/QueenAmdi)
