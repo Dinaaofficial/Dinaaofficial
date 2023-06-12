@@ -25,7 +25,8 @@
 - 🔭 ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢɴɪɴɢ ᴏɴ [Qᴜᴇᴇɴ ᴀᴍᴅɪ ᴘʀᴏᴊᴇᴄᴛ](https://github.com/BlackAmda/QueenAmdi)
 - 🤖 ᴀʟʟ ᴏꜰ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴀᴛ [ᴍʏ ɢɪᴛ](https://github.com/Dinaaofficial/) 
 - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ [ᴡʜᴀᴛꜱᴀᴘᴘ](https://wa.me/94774976567) 
-- 📜 ɪ ᴀᴍ **ᴄᴏᴍᴘᴜᴛᴇʀ ʜᴀʀᴅᴡᴀʀᴇ ᴛᴇᴄʜɴɪᴄɪᴀɴ.**
+- 📜 ᴍʏ ᴘᴇʀꜱᴏɴᴀʟ ᴡᴇʙꜱɪᴛᴇ [view](https://dinaaofficial.github.io/dinethseth.io/)
+- 📜 ᴍʏ ʙᴜꜱɪɴᴇꜱꜱ ᴡᴇʙꜱɪᴛᴇ [view](https://www.ceyloncrewofc.tk/) 
 
 **ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ :** [ᴅɪɴᴀ ᴏꜰꜰɪᴄɪᴀʟ ᴄʀᴇᴡ](https://github.com/Dinaaofficial/)
 <h3 align="left">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
