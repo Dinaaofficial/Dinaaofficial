@@ -1,8 +1,8 @@
-
-# <div align="center">Hello, I'm Dina Malli !</div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Despairs&weight=700&size=25&pause=1000&color=F70000&background=FF25B900&vCenter=true&width=750&height=79&lines=I+AM+DINA+.WELCOME+MY+PROFILE+.CEYLON+CREW+OWNER;I+AM+GRAPHIC+DESIGNER++%26+COMPUTER+TECHNICIAN+.+.+.+.;I+AM+QUEEN+AMDI+GRAPHIC+DESIGNER..." alt="Typing SVG" /></a>
+</div>
 <div align="center">Graphic Designer</div>
 <div align="center">Welcome to my GitHub profile!</div>
-
 <br>
 
 <div align="center">
@@ -52,7 +52,13 @@
 
 ## Projects
 
-- [Project 1]: Brief description and link to the project repository
+<p align="left">
+  <a href="https://github.com/BlackAmda/QueenAmdi"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BlackAmda&repo=QueenAmdi&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="QueenAmdi"></a>
+  
+</p>
+<p align="left">
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
  
 <br>
@@ -68,9 +74,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&count_private=true&show_icons=true&theme=radical" alt="Your GitHub Stats">
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="Your GitHub Streak">
 </div>
