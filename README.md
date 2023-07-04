@@ -53,14 +53,11 @@
 ## Projects
 
 <p align="left">
-  <a href="https://github.com/BlackAmda/QueenAmdi"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BlackAmda&repo=QueenAmdi&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="QueenAmdi"></a>
-  
-</p>
+  <a href="https://github.com/Dinaaofficial/PHENIXS_EDU"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dinaaofficial&repo=PHENIXS_EDU&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="PHENIXS_EDU"></a>
+  </p>
 <p align="left">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
- 
 <br>
 
 ## Open Source Contributions
