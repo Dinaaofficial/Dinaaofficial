@@ -69,11 +69,11 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&count_private=true&show_icons=true&theme=radical" alt="Your GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinaaofficial&count_private=true&show_icons=true&theme=radical" alt="Your GitHub Stats">
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="Your GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinaaofficial&theme=radical" alt="Your GitHub Streak">
 </div>
 
 <br>
